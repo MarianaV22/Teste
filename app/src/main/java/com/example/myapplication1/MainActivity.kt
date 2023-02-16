@@ -19,5 +19,7 @@ class MainActivity : AppCompatActivity() {
         //alterado o branch
 
         //commit no branch1
+
+        //commit no branch2
     }
 }
